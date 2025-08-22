@@ -36,9 +36,6 @@
 
 ---
 
-https://patientpal.vercel.app/
-
-
 # 기술 스택 (이미지화)
 
 ---
